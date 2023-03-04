@@ -1,8 +1,7 @@
-<h3 align="center">I'm undergraduate in University of Colombo school of computing from Hambantota, Sri Lanka</h3>
-
+<h2 align="center">I'm undergraduate in University of Colombo school of computing</h2>
+<h3 align="center">from Hambantota, Sri Lanka</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=learncswithdir&label=Profile%20views&color=0e75b6&style=flat" alt="learncswithdir" /> </p>
 
-- 🔭 I’m currently working on **..**
 
 - 🌱 I’m currently learning **Computer Science**
 
@@ -10,11 +9,9 @@
 
 - 🤝 I’m looking for help with **..**
 
-- 👨‍💻 All of my projects are available at [..](..)
+- 👨‍💻 All of my projects are available at **this Accoount**
 
-- 📝 I regularly write articles on [..](..)
-
-- 💬 Ask me about **..**
+- 💬 Ask me about **using Facebook or Instagram**
 
 - 📫 How to reach me **..**
 
@@ -25,6 +22,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://fb.com/https://www.facebook.com/diluminduwara.rathnayake" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/diluminduwara.rathnayake" height="30" width="40" /></a>
+<a href="https://instagram.com/https://instagram.com/_dilum_induwara_?igshid=ymmymta2m2y=" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://instagram.com/_dilum_induwara_?igshid=ymmymta2m2y=" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
