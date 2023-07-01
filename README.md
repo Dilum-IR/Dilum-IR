@@ -31,7 +31,7 @@
 
 
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LearnCsWithDIR&theme=monokai)
+
 
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=LearnCsWithDIR&theme=monokai)
