@@ -31,9 +31,9 @@
 
 
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=learncswithdir&theme=monokai)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LearnCsWithDIR&theme=monokai)
 
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=learncswithdir&theme=monokai)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=LearnCsWithDIR&theme=monokai)
 
-[![](https://github-readme-streak-stats.herokuapp.com?user=learncswithdir&theme=soft-green)](https://git.io/streak-stats)
+[![](https://github-readme-streak-stats.herokuapp.com?user=LearnCsWithDIR&theme=soft-green)](https://git.io/streak-stats)
