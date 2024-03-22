@@ -5,6 +5,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=learncswithdir&label=Profile%20views&color=0e75b6&style=flat" alt="learncswithdir" /> </p>
 
 <img width="310px" align="right" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
+
 - 🌱 I’m currently learning **Computer Science**
 
 - 👨‍💻 All of my projects are available at **this Accoount**
