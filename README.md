@@ -49,7 +49,7 @@
 <p align="left">
 <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=LearnCsWithDIR&theme=soft-green&hide_border=true" alt="GitHub Streak" /></a>
   
-<img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LearnCsWithDIR&theme=bear&hide_border=true&include_all_commits=true&count_private=true&layout=compact&card_width=320" alt="Top Languages" />
+<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LearnCsWithDIR&theme=bear&hide_border=true&include_all_commits=true&count_private=true&layout=compact&card_width=320" alt="Top Languages" />
 </p>
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LearnCsWithDIR&theme=monokai)
