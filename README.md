@@ -52,10 +52,10 @@
 <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LearnCsWithDIR&theme=bear&hide_border=true&include_all_commits=true&count_private=true&layout=compact&card_width=320" alt="Top Languages" />
 </p>
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LearnCsWithDIR&theme=monokai)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Dilum-IR&theme=monokai)
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=LearnCsWithDIR&theme=monokai)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Dilum-IR&theme=monokai)
 
 ## GitHubUnwrapped
-<video src='https://github.com/LearnCsWithDIR/LearnCsWithDIR/assets/110888028/339fa7ec-de72-4ac5-9f97-664623f87e20' width=180/>
+<video src='https://github.com/Dilum-IR/Dilum-IR/assets/110888028/339fa7ec-de72-4ac5-9f97-664623f87e20' width=180/>
 
